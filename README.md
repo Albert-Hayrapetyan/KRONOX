@@ -1,1 +1,1 @@
-<p align="center">KRONOX</p>
+<h1 align="center">KRONOX</h1>
