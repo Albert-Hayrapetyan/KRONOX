@@ -1,1 +1,1 @@
-# KRONOX COMPNAY
+<p align="center">KRONOX</p>
